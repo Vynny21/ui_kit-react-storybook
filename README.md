@@ -16,7 +16,7 @@ Code Challenge - React UI Kit Library
 
 <hr>
 
-## Participants
+## Instructor
 
 | [<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz) |
 | :------------------------------------------------------------------------------------------------------------------------: |
@@ -61,6 +61,4 @@ Code Challenge - React UI Kit Library
 4. Access `localhost:8080` in your browser.<br />
 5. Run `yarn build` to generate your own build.<br />
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Made with 💜 by Vinicius Prudencio 👋 [See my linkedin](https://www.linkedin.com/in/vinicius-prudencio-64bb99128/)
